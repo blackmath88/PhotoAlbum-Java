@@ -53,7 +53,7 @@ public class SecurityConfig {
             .and()
             .authorizeRequests()
                 // Default deny for state-changing operations (CWE-862 / CWE-306).
-                .antMatchers(HttpMethod.POST, "/upload", "/detail/*/delete").authenticated()
+                .requestMatchers(HttpMethod.POST, "/upload", "/detail/*/delete").authenticated()
                 // Public, read-only photo gallery.
                 .anyRequest().permitAll()
             .and()
