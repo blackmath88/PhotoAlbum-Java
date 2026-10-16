@@ -1,4 +1,16 @@
+<!-- BEGIN public-repo-header -->
+<div align="center">
+
 # Photo Album Application - Java Spring Boot with Oracle DB
+
+<a href="https://github.com/blackmath88/PhotoAlbum-Java"><img alt="Primary language: PowerShell" src="https://img.shields.io/badge/language-PowerShell-526078?style=flat"></a>
+<a href="https://github.com/blackmath88/PhotoAlbum-Java#readme"><img alt="README" src="https://img.shields.io/badge/docs-readme-16796f?style=flat"></a>
+<a href="https://github.com/blackmath88/PhotoAlbum-Java/blob/main/LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-737373?style=flat"></a>
+<a href="https://github.com/blackmath88/PhotoAlbum-Java/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/blackmath88/PhotoAlbum-Java?style=flat&amp;color=737373"></a>
+<a href="https://github.com/Azure-Samples/PhotoAlbum-Java"><img alt="Fork" src="https://img.shields.io/badge/source-fork-737373?style=flat"></a>
+
+</div>
+<!-- END public-repo-header -->
 
 A photo gallery application built with Spring Boot and Oracle Database, featuring drag-and-drop upload, responsive gallery view, and full-size photo details with navigation.
 
